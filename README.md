@@ -1,0 +1,1 @@
+Mais detalhes sobre configurações e exemplos do framework mapStruct verificar no link https://mapstruct.org/documentation/stable/reference/html/
